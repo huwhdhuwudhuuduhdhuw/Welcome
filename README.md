@@ -506,7 +506,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Kelas X Teknik Ketenagalistrikan 1 SMKN1KANDEMAN</p>
+        <p>&copy; 2025 Kelas X Teknik Ketenagalistrikan 1 SMKN1KANDEMAN.</p>
     </footer>
 
 
