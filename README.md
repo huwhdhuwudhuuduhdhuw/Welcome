@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -169,7 +169,7 @@
                 </tbody>
             </table>
         </section>
-      <!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -315,7 +315,7 @@
 		<li>
                     <strong>Rama Raditya Ananda</strong> - Kebersihan
                 </li>
-                <!DOCTYPE html>
+               
 <html lang="id">
 <head>
     <meta charset="UTF-8">
