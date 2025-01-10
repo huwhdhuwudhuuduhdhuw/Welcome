@@ -15,7 +15,7 @@
 
         /* Body */
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: 'Times New Roman', sans-serif;
             background-color: #ffff00;
             color: #208;
         }
@@ -59,7 +59,7 @@
 
         /* About Section */
         .about {
-            background-color: #0000ff;
+            background-color: #00ffff;
             margin-bottom: 20px;
             padding: 20px;
             border-radius: 8px;
@@ -72,7 +72,7 @@
 
         /* Schedule Section */
         .schedule {
-            background-color: #0000ff;
+            background-color: #00ffff;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
