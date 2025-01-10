@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kelas X TKL 1 SMK NEGERI 1 KANDEMAN</title>
-	<img src:"images (1).jpg">
+	
     <style>
         /* Reset default margin and padding */
         * {
