@@ -111,7 +111,7 @@
     <!-- Header -->
     <header>
         <h1>Kelas X TKL 1 SMK NEGERI 1 KANDEMAN</h1>
-        <p>KELAS TERKEREN DI SKANSAKA</p>
+        <p>SMK N 1 KANDEMAN</p>
     </header>
 
     <!-- Navigation Bar -->
