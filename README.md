@@ -17,6 +17,7 @@
             font-family: 'Arial', sans-serif;
             background-color: #f4f4f4;
             color: #208;
+            background-image:;
         }
 
         /* Header */
@@ -297,7 +298,7 @@
                     <strong>Birrul walidayn</strong> - Ketua Kelas
                 </li>
                 <li>
-                    <strong>Dyzza Evan Favian</strong> - wakil ketua kelas
+                    <strong>Dyzza Evan Favian</strong> - Wakil ketua kelas
                 </li>
                 <li>
                     <strong>Novia Eka Abdillah</strong> - Bendahara I
@@ -370,6 +371,7 @@
         }
         mainan {
             text-align: center;
+            padding: 70px;
         }
 
         /* Anggota Kelas Section */
@@ -432,14 +434,14 @@
             <ul>
                 <li><strong>Adevta Juwita Sari</strong></li>
                 <li><strong>Afan Fadil</strong></li>
-                <li><strong>Ahmad Zanuar Liga</strong></li>
+                <li><strong>Ahmad Zanuar Liga (softspoken)</strong></li>
                 <li><strong>Aini Nafisatul Izza</strong></li>
-                <li><strong>Alif Adi Irawan</strong></li>
+                <li><strong>Alif Adi Irawan (Cap Lang)</strong></li>
                 <li><strong>Andini Angraini</strong></li>
                 <li><strong>Angelika Fany</strong></li>
                 <li><strong>Anindia Dwi Annisa</strong></li>
                 <li><strong>Arifah Linatun Nafisah</strong></li>
-                <li><strong>Arul Setiawan</strong></li>
+                <li><strong>Arul Setiawan (Kicau Mania)</strong></li>
                 <li><strong>Birrul Walidayn</strong></li>
                 <li><strong>Dira Adelia Nanda</strong></li>
                 <li><strong>Dyzza Evan Favian</strong></li>
@@ -451,10 +453,10 @@
                 <li><strong>Karima Rachil Anjani</strong></li>
                 <li><strong>Khalista Ardini</strong></li>
                 <li><strong>Kisna Nabila Safara</strong></li>
-                <li><strong>M Zacky Arifiansyah</strong></li>
-                <li><strong>Muchammad Rangga Ardiansyah</strong></li>
+                <li><strong>M Zacky Arifiansyah (Acik)</strong></li>
+                <li><strong>Muchammad Rangga Ardiansyah (Beruk)</strong></li>
                 <li><strong>Mugiono Santoso</strong></li>
-                <li><strong>Muhamad Herlangga</strong></li>
+                <li><strong>Muhamad Herlangga (Creator)</strong></li>
                 <li><strong>Nazala Maulin Madina</strong></li>
                 <li><strong>Novia Eka Abdillah</strong></li>
                 <li><strong>Rama Raditya Ananda</strong></li>
@@ -463,7 +465,7 @@
                 <li><strong>Saiful Reffandi Anwar</strong></li>
                 <li><strong>Trisan Rizkia Setiyanto</strong></li>
                 <li><strong>Tumina Eka Jariyah</strong></li>
-                <li><strong>Wahyu Putra Adiansah</strong></li>
+                <li><strong>Wahyu Putra Adiansah (Kupu Kupu JP)</strong></li>
                 <li><strong>Wawan Setya Budi</strong></li>
                 <li><strong>Wulandari</strong></li>
             </ul>
@@ -483,8 +485,8 @@
             
             <ul>
                 <li><strong></strong>
-                    <img src=""></li>
-                    <img src=""></li>
+                    <img src="hhh.jpeg"></li>
+                    <img src="fff.jpeg"></li>
                     <img src=""></li>
             </ul>
         </section>
@@ -501,11 +503,7 @@
         </section>
     </main>
 
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2024 struktur organisasi Teknik Ketenagalistrikan SMK</p>
-    </footer>
-
+    
 </body>
 </html>
 
@@ -515,12 +513,15 @@
             <h2>Kontak</h2>
             <p>Jika ada pertanyaan lebih lanjut, silakan hubungi kami di email berikut:</p>
             <p><strong>Email:</strong> muhamadherlangga248119@student.smkn1kandeman.sch.id</p>
+            <p><strong>instagram:</strong> @pe.x.tekael_one<a href="https://www.instagram.com/pe.x.tekael_one/?utm_source=ig_web_button_share_sheet">click here</a></p>
+            
+             
         </section>
     </main>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Kelas Teknik Ketenagalistrikan SMK</p>
+        <p>&copy; 2025 Kelas Teknik Ketenagalistrikan 1 SMKN1KANDEMAN</p>
     </footer>
 
 </body>
