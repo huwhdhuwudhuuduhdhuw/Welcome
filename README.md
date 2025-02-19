@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -111,8 +111,8 @@
 
     <!-- Header -->
     <header>
-        <h1>Kelas X TKL 1 SMK NEGERI 1 KANDEMAN</h1>
-        <p>SKANSAKA JAYA </p>
+        <h1>X TKL 1 SMK NEGERI 1 KANDEMAN</h1>
+        <p>BATANG</p>
     </header>
 
     <!-- Navigation Bar -->
@@ -172,7 +172,7 @@
                 </tbody>
             </table>
         </section>
-      <!DOCTYPE html>
+      
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -309,7 +309,7 @@
                 <li>
                     <strong>Khalista Ardini</strong> - sekretaris
                 </li>
-                <!DOCTYPE html>
+                
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -486,8 +486,8 @@
             <ul>
                 <li><strong></strong>
                     <img src="hhh.jpeg"></li>
-                    <img src="fff.jpeg"></li>
-                    <img src="jjj.jpeg"></li>
+                   
+                   
                     <img src="mmm.jpeg"></li>
                     <img src="ttt.jpeg"></li>
             </ul>
