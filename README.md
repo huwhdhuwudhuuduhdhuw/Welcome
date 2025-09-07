@@ -111,7 +111,7 @@
 
     <!-- Header -->
     <header>
-        <h1>X TKL 1 SMK NEGERI 1 KANDEMAN</h1>
+        <h1>XI TITL 1 SMK NEGERI 1 KANDEMAN</h1>
         <p>BATANG</p>
     </header>
 
