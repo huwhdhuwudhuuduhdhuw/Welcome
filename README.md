@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kelas X TKL 1 SMK NEGERI 1 KANDEMAN</title>
+    <title>Kelas XI TITL 1 SMK NEGERI 1 KANDEMAN</title>
     <style>
         /* Reset default margin and padding */
         * {
@@ -177,7 +177,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anggota Kelas Teknik Ketenagalistrikan</title>
+    <title>Anggota Kelas Teknik Intalasi Tenaga LIstrik</title>
     <style>
         /* Reset default margin and padding */
         * {
