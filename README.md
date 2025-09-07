@@ -128,7 +128,7 @@
     <main>
         <!-- About Section -->
         <section id="about" class="about">
-            <h2>Tentang Kelas X TKL 1</h2>
+            <h2>Tentang Kelas XI TITL 1</h2>
             <p>Jurusan Teknik Ketenagalistrikan di SMKN1 KANDEMAN bertujuan untuk membekali siswa dengan keterampilan dan pengetahuan tentang sistem kelistrikan, instalasi listrik, pembangkit energi, dan perawatan perangkat listrik. Siswa akan mempelajari berbagai aspek teknik yang berhubungan dengan kelistrikan industri, sistem tenaga listrik, serta instalasi listrik untuk rumah dan bangunan.</p>
         </section>
 
@@ -292,13 +292,13 @@
             
             <ul>
                 <li>
-                    <strong>Riris Yuniaratri</strong> - Wali Kelas
+                    <strong>Muhammad Haris Fahmi S.Pd</strong> - Wali Kelas
                 </li>
                 <li>
-                    <strong>Birrul walidayn</strong> - Ketua Kelas
+                    <strong>Wahyu Putra Adiansah</strong> - Ketua Kelas
                 </li>
                 <li>
-                    <strong>Dyzza Evan Favian</strong> - Wakil ketua kelas
+                    <strong>Birull walidayn</strong> - Wakil ketua kelas
                 </li>
                 <li>
                     <strong>Novia Eka Abdillah</strong> - Bendahara I
@@ -307,14 +307,14 @@
                     <strong>Anindia Dwi Annisa</strong> - Bendahara II
                 </li>
                 <li>
-                    <strong>Khalista Ardini</strong> - sekretaris
+                    <strong>Dyzza Evan Favian</strong> - sekretaris
                 </li>
                 
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anggota Kelas Teknik Ketenagalistrikan</title>
+    <title>Anggota Kelas Teknik Instalasi Tenaga Listrik</title>
     <style>
         /* Reset default margin and padding */
         * {
