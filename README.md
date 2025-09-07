@@ -147,27 +147,27 @@
                     <tr>
                         <td>Senin</td>
                         <td>07:00-15:30</td>
-                        <td>-B.ING-TITL GTL-PAI-INFORMATIKA</td>
+                        <td>-B.IND-IPL</td>
                     </tr>
                     <tr>
                         <td>Selasa</td>
                         <td>07:00-15:30</td>
-                        <td>-BK-TITL DLE-SEJARAH-PAI</td>
+                        <td>-IML-B.ING-BK-</td>
                     </tr>
                     <tr>
                         <td>Rabu</td>
                         <td>07:00-15:30</td>
-                        <td>-B.ING-MATEMATIKA-B.IND-PJOK-</td>
+                        <td>-ITUD-ITL-PAI-PJOL-</td>
                     </tr>
                     <tr>
                         <td>Kamis</td>
                         <td>07:00-15:30</td>
-                        <td>-IPAS-TITL PDE-SENI BUDAYA-BAHASA INDONESIA-</td>
+                        <td>-MTK-NIHONGO-SEJARAH-B.ING-B.JAWA-</td>
                     </tr>
                     <tr>
                         <td>Jumat</td>
                         <td>07:00-14:00</td>
-                        <td>-IPAS-MATEMATIKA-BASA JAWA-</td>
+                        <td>-PP-PKK-</td>
                     </tr>
                 </tbody>
             </table>
@@ -177,7 +177,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anggota Kelas Teknik Intalasi Tenaga LIstrik</title>
+    <title>Anggota Kelas Teknik Intalasi Tenaga Listrik</title>
     <style>
         /* Reset default margin and padding */
         * {
@@ -436,7 +436,7 @@
                 <li><strong>Afan Fadil</strong></li>
                 <li><strong>Ahmad Zanuar Liga (softspoken)</strong></li>
                 <li><strong>Aini Nafisatul Izza</strong></li>
-                <li><strong>Alif Adi Irawan (Cap Lang)</strong></li>
+                <li><strong>Alif Adi Irawan (Telo)</strong></li>
                 <li><strong>Andini Angraini</strong></li>
                 <li><strong>Angelika Fany</strong></li>
                 <li><strong>Anindia Dwi Annisa</strong></li>
@@ -452,7 +452,7 @@
                 <li><strong>Isnaini Adzkarul Febriani</strong></li>
                 <li><strong>Karima Rachil Anjani</strong></li>
                 <li><strong>Khalista Ardini</strong></li>
-                <li><strong>Kisna Nabila Safara</strong></li>
+                <li><strong>Kisna Nabila Safara(kupret)</strong></li>
                 <li><strong>M Zacky Arifiansyah (Acik)</strong></li>
                 <li><strong>Muchammad Rangga Ardiansyah (Beruk)</strong></li>
                 <li><strong>Mugiono Santoso</strong></li>
@@ -466,13 +466,13 @@
                 <li><strong>Trisan Rizkia Setiyanto</strong></li>
                 <li><strong>Tumina Eka Jariyah</strong></li>
                 <li><strong>Wahyu Putra Adiansah (Kupu Kupu JP)</strong></li>
-                <li><strong>Wawan Setya Budi</strong></li>
+                <li><strong>Wawan Setya Budi(black)</strong></li>
                 <li><strong>Wulandari</strong></li>
             </ul>
         </section>
     </main>
      <header>
-        <h1>Galeri Foto Kelas X TKL 1</h1>
+        <h1>Galeri Foto Kelas XI TITL 1</h1>
         
     </header>
 
