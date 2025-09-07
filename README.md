@@ -517,7 +517,7 @@
             <h2>Kontak</h2>
             <p>Jika ada pertanyaan lebih lanjut, silakan hubungi kami di email berikut:</p>
             <p><strong>Email:</strong> muhamadherlangga248119@student.smkn1kandeman.sch.id</p>
-            <p><strong>instagram:</strong> @pe.x.tekael_one<a href="https://www.instagram.com/pe.x.tekael_one/?utm_source=ig_web_button_share_sheet">click here</a></p>
+            <p><strong>instagram:</strong> @pe.x.tekael_one<a href="[https://www.instagram.com/pe.x.tekael_one/?utm_source=ig_web_button_share_sheet](https://www.instagram.com/electricity.one_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)">click here</a></p>
             
              
         </section>
